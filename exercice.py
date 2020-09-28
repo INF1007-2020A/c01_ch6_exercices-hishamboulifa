@@ -6,7 +6,7 @@ def order(values: list = None) -> bool:
     if values is None:
         # TODO: Demander les valeurs ici
         pass
-        input('Insérer 10 valeurs num')
+        input('Insérer 10 nombres: ')
         
     return False
 
