@@ -8,7 +8,6 @@ def order(values: list = None) -> bool:
         pass
         valeurs = input('Insérer 10 nombres: ')
         sort(valeurs)
-        print(sorà)
         
     return False
 
