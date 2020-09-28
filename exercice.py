@@ -7,7 +7,7 @@ def order(values: list = None) -> bool:
         # TODO: Demander les valeurs ici
         
         values = [input('Insérez un nombre: ') for _ in range(10)]
-   range
+   
     return values == sorted(values)
 
 
